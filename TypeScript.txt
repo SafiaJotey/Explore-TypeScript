@@ -1,0 +1,9 @@
+1.use npm install typescript --save-dev in cmd
+2.after intalling in vs create index.html and .ts file
+3. to create tsconfig npx tsc --init
+4. in tsconfig change es5 to es6 and uncomment .outdir create folder./js
+5. compile whole every time with npx tsc
+##  compile ts file every time with npx tsc fileName
+%%%documentation-
+https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+6. typeScript is strict about type
